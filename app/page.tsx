@@ -4,7 +4,7 @@ import { useActiveWalletConnectionStatus } from 'thirdweb/react';
 import WalletConnect from '@/components/Buttons/WalletConnect';
 import Image from 'next/image';
 import Link from 'next/link';
-import Logo from '@/public/Images/logo/Fayhr_Logo.svg';
+import Logo from '../public/Images/logo/Fayhr_logo.svg';
 import CommunityCard from '@/components/Cards/CommunityCard';
 import { CrowdfundingThings } from '@/utils/constants';
 import { SiGitbook } from "react-icons/si";
